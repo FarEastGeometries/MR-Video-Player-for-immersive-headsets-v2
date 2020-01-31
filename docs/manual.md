@@ -1,10 +1,12 @@
 # Manual
 
 ## Known issues
+
 - If both Motion Controller and Xbox Controller are connected, Motion Controller will not work properly.
 - Click the "Open in Browser" button (Manual etc.) to open it in the desktop web browser. This issue occurs when new Microsoft Edge based on Chromium is installed. In our environment, installing "2020-01 Cumulative Update for Windows 10 (KB4532695)" solved this issue.
 
 ## Notes
+
 - Motion Controller Model is not displayed in v2.0.0.0.
 - Pointer appears only when UI is displayed.
 - A copy of the video file is created in the app's temporary folder to avoid issue with stereo video files containing specific metadata not playing properly. (e.g. videos shot with VR180 cameras)  
@@ -12,6 +14,7 @@
   This copied file will be deleted when you open another file.
 
 ## Features
+
 - Support 180°/360° equirectangular projection videos and photos
 - Support 180° fisheye projection videos and photos  
   Supported fisheye projection  
@@ -25,6 +28,7 @@
 - Support Xbox Controller
 
 ## Supported video formats
+
 This app uses Media Foundation for video playback.  
 Supported video formats are based on the Media Foundation.  
 The video formats supported by Media Foundation also depend on the video extensions installed.
@@ -34,9 +38,11 @@ The video formats supported by Media Foundation also depend on the video extensi
 - AV1 Video Extension (Beta)
 
 ## Supported photo formats
+
 - JPEG
 
 ## Controller mapping
+
 | Action                  | Motion Controller            | Xbox Controller
 | :---------------------- | :--------------------------: | :-------------:
 | Move Pointer            | Motion Controller Pose       | Gaze
@@ -57,6 +63,7 @@ The video formats supported by Media Foundation also depend on the video extensi
 | Show / Hide Settings UI | Grip Long Press              | B Press
 
 ## File type associations
+
 | File formats            | File extensions
 | :---------------------- | :----
 | JPEG                    | .jpg, .jpeg
