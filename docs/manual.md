@@ -43,35 +43,35 @@ The video formats supported by Media Foundation also depend on the video extensi
 
 ## Controller mapping
 
-| Action                  | Motion Controller            | Xbox Controller
-| :---------------------- | :--------------------------: | :-------------:
-| Move Pointer            | Motion Controller Pose       | Gaze
-| Select                  | Trigger Press                | A Press
-| Turn                    | Thumbstick Tilt Left / Right | Right Thumbstick Tilt Left / Right
-| Recenter                | Thumbstick Press             | Right Thumbstick Press
-| Play / Pause            | Touchpad Center Press        | Left Thumbstick Press
-| Skip Back / Forward     | Touchpad Left / Right Press  | Left Thumbstick Tilt Left / Right
-| Skip to Previous File or Rewind | Touchpad Left Long Press | Left Bumper Press
-| Skip to Next File       | Touchpad Right Long Press | Right Bumper Press
-| Volume Up / Down        | TouchPad Up / Down Press     | Left Thumbstick Tilt Up / Down
-| Screen Scaling (Rect mode only) | Thumbstick Tilt Up / Down | Right Thumbstick Tilt Up / Down
-| Zoom (180 Fisheye mode only) | Thumbstick Tilt Up / Down | Right Thumbstick Tilt Up / Down
-| Open Folder Picker      | Menu Long Press              | Menu or Y Long Press
-| Show / Hide File Picker | Menu Press                   | Menu or Y Press
-| Move Previous / Next Page in File Picker | Touchpad Left / Right Long Press | Left / Right Bumper Press
-| Show / Hide Player UI   | Grip Press                   | X Press
-| Show / Hide Settings UI | Grip Long Press              | B Press
+| Action                                   | Motion Controller                | Xbox Controller                    |
+| :--------------------------------------- | :------------------------------: | :--------------------------------: |
+| Move Pointer                             | Motion Controller Pose           | Gaze                               |
+| Select                                   | Trigger Press                    | A Press                            |
+| Turn                                     | Thumbstick Tilt Left / Right     | Right Thumbstick Tilt Left / Right |
+| Recenter                                 | Thumbstick Press                 | Right Thumbstick Press             |
+| Play / Pause                             | Touchpad Center Press            | Left Thumbstick Press              |
+| Skip Back / Forward                      | Touchpad Left / Right Press      | Left Thumbstick Tilt Left / Right  |
+| Skip to Previous File or Rewind          | Touchpad Left Long Press         | Left Bumper Press                  |
+| Skip to Next File                        | Touchpad Right Long Press        | Right Bumper Press                 |
+| Volume Up / Down                         | TouchPad Up / Down Press         | Left Thumbstick Tilt Up / Down     |
+| Screen Scaling (Rect mode only)          | Thumbstick Tilt Up / Down        | Right Thumbstick Tilt Up / Down    |
+| Zoom (180 Fisheye mode only)             | Thumbstick Tilt Up / Down        | Right Thumbstick Tilt Up / Down    |
+| Open Folder Picker                       | Menu Long Press                  | Menu or Y Long Press               |
+| Show / Hide File Picker                  | Menu Press                       | Menu or Y Press                    |
+| Move Previous / Next Page in File Picker | Touchpad Left / Right Long Press | Left / Right Bumper Press          |
+| Show / Hide Player UI                    | Grip Press                       | X Press                            |
+| Show / Hide Settings UI                  | Grip Long Press                  | B Press                            |
 
 ## File type associations
 
-| File formats            | File extensions
-| :---------------------- | :----
-| JPEG                    | .jpg, .jpeg
-| Audio Video Interleave  | .avi
-| Advanced Systems Format | .asf, .wmv
-| MPEG-2 Program Stream   | .mpg
-| MPEG-2 Transport Stream | .ts, .mts, .m2t, .m2ts
-| QuickTime File Format   | .mov
-| MP4                     | .mp4, .m4v
-| Matroska                | .mkv
-| WebM                    | .webm
+| File formats            | File extensions        |
+| :---------------------- | :--------------------- |
+| JPEG                    | .jpg, .jpeg            |
+| Audio Video Interleave  | .avi                   |
+| Advanced Systems Format | .asf, .wmv             |
+| MPEG-2 Program Stream   | .mpg                   |
+| MPEG-2 Transport Stream | .ts, .mts, .m2t, .m2ts |
+| QuickTime File Format   | .mov                   |
+| MP4                     | .mp4, .m4v             |
+| Matroska                | .mkv                   |
+| WebM                    | .webm                  |
