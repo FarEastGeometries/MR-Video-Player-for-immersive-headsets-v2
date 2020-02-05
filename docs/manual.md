@@ -7,7 +7,7 @@
 
 ## Notes
 
-- Motion Controller Model is not displayed in v2.0.1.0.
+- Motion Controller Model is not displayed in v2.0.1.0 or higher.
 - Pointer appears only when UI is displayed.
 - A copy of the video file is created in the app's temporary folder to avoid issue with stereo video files containing specific metadata not playing properly. (e.g. videos shot with VR180 cameras)  
   Edit the metadata of this copied file and use it for video playback.  
@@ -25,6 +25,7 @@
   - MK-6.5mm F2.0
 - Support stereoscopic SBS/OU videos and photos
 - Support VR photos with extension .vr.jpg (e.g. photos taken with VR180 cameras or Cardboard Camera app)
+- Support color correction
 - Support Xbox Controller
 
 ## Supported video formats
