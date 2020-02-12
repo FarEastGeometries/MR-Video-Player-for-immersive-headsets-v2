@@ -30,6 +30,7 @@
 - Support VR photos with extension .vr.jpg (e.g. photos taken with VR180 cameras or Cardboard Camera app)
 - Support color correction
 - Support Xbox Controller
+- Support stereo canceling when UI is displaying and screen mode is `180` `180 Fisheye` `360`
 
 ## Supported video formats
 
