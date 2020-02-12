@@ -1,4 +1,7 @@
 # Release notes
+## v2.3.0.0 (2020/02/12)
+- Added feature to cancel stereo when UI is displaying and screen mode is `180` `180 Fisheye` `360`.  
+  Disabled by default. You can enable from the settings.
 
 ## v2.2.0.0 (2020/02/12)
 - Added feature to switch between App-specific file picker and Windows file picker.  
