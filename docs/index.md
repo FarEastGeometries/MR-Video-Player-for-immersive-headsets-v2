@@ -13,6 +13,8 @@ Video Player and Photo Viewer for Windows Mixed Reality immersive headsets.
 
 ### [Open Source Licenses](https://fareastgeometries.github.io/MR-Video-Player-for-immersive-headsets-v2/open-source-licenses.html)
 
+### [Release notes](https://fareastgeometries.github.io/MR-Video-Player-for-immersive-headsets-v2/release-notes.html)
+
 ### [Manual](https://fareastgeometries.github.io/MR-Video-Player-for-immersive-headsets-v2/manual.html)
 
 © 2020 Far East Geometries
