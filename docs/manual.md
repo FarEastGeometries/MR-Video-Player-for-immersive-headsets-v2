@@ -1,5 +1,10 @@
 # Manual
 
+## Quick start guide
+
+\* See the "Controller mapping" section for more information, including Xbox Controller mapping.
+![Quick start guide](quick_start_guide.png)
+
 ## Known issues
 
 - If both Motion Controller and Xbox Controller are connected, Motion Controller will not work properly.
